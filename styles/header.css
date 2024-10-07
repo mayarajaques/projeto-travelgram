@@ -1,5 +1,6 @@
 header{
   padding-block: 32px; /*pading entre a foto e o logo*/
+  font: var(--text-md); /*aplica fonte do texto*/
 }
 
 header .container{ /*pega os itens do info e coloca do lado do texto*/
@@ -23,9 +24,6 @@ max-width: 384px ;
   margin-bottom: 8px;
 }
 
-profile p{
-  font: var(--text-md);
-}
 
 #info {
   list-style: none; /* tira os bullets ponts da lista de info*/
