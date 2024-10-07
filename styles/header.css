@@ -17,11 +17,12 @@ gap: 32px; /*espaçamento entre a imagem e o texto da bio*/
 #profile > div{ /*dentro do profile pega o primeiro nivel de div*/
 max-width: 384px ;
 }
+
 #profile img{ /*melhorando o tamanho da imagem com telas menores*/
   width: 176px;
   height: 176px;
   object-fit: cover;
-  border border-radius: 50%;
+   border-radius: 50%;
 
 }
 
