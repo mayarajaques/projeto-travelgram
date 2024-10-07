@@ -30,3 +30,20 @@ body{
   color: var(--text-color-secondary);
   background-color: var(--background-color);
 }
+
+a{
+  text-decoration: none; /*tira underline dos menus*/
+  color:inherit; /*cor deve ser herdada. buscando a cor do pai dele, no caso o body*/
+}
+a:hover{ 
+color: var(--brand-color);/*quando passar o mouse em cima*/
+text-decoration: underline;
+}
+.container{
+  padding-inline: 32px; /*pading nas laterais somente*/
+  max-width: 1280px; /*largura maxima da pagina*/
+  margin-inline: auto; /*só vai mexer nas laterais, ficando automatica as duas laterais*/
+}
+.bg-surface-color{ /*classe para a cor do fundo do nav*/
+  background-color: var(--surface-color);
+}

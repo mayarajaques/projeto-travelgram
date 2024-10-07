@@ -1,0 +1,24 @@
+/*css da navegação*/
+
+nav{
+ display: flex; /*elemento do lado do outro*/
+ justify-content: space-between; /*adicionando espaço entre os 
+ elementos*/
+ align-items: center; /*centralizar os elementos no centro do eixo*/
+
+ line-height: 0; /*tira os espaços padroes do navegador*/
+ padding-block: 20px ; /*olha para o eixo y, ou seja espaço em cima e em baixo. se quiser duas propriedades, a ordem é em cima e em baixo*/
+}
+nav ul { 
+list-style: none; /*tira os bullets points da lista*/
+display: flex; /*elemento do lado do outro*/
+align-items: center; /*centralizar os elementos no centro do eixo*/
+gap: 24px; /*espaço entre os elementos*/
+padding-block: 8px; /*pading em cima e baixo*/
+}
+
+nav ul li:last-child img{ /*pegar imagem do ultimo filho do li, pegando a imagem dele*/
+width: 40px;
+height: 40px;
+}
+
