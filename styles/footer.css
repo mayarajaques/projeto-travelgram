@@ -1,0 +1,8 @@
+footer{
+  display: flex; /*coloca o footer um do lado do outro*/
+  padding-block: 24px;  /*padding do footer*/
+  gap: 24px; /*espacamento entre os textos*/
+}
+footer span:nth-child(1){ /*pega o filho span de numero 1*/
+margin-right: auto;
+}
