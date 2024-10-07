@@ -1,0 +1,43 @@
+header{
+  padding-block: 32px; /*pading entre a foto e o logo*/
+}
+
+header .container{ /*pega os itens do info e coloca do lado do texto*/
+  display: flex;
+  justify-content: space-between; /*joga a info para o canto direito*/
+  align-items: center; /*alinha no centro*/
+}
+ #profile{
+display: flex; /*colocando o texto do lado do outro*/
+align-items: center; /*centralizar o texto*/
+gap: 32px; /*espaçamento entre a imagem e o texto da bio*/
+}
+
+#profile > div{ /*dentro do profile pega o primeiro nivel de div*/
+max-width: 384px ;
+}
+
+#profile h1{
+  font: var(--text-lg);
+  color: var(--text-color-primary);
+  margin-bottom: 8px;
+}
+
+profile p{
+  font: var(--text-md);
+}
+
+#info {
+  list-style: none; /* tira os bullets ponts da lista de info*/
+  display: flex; /*quero display flex*/
+  flex-direction: column; /*mas quero um abaixo do outro*/
+  gap: 16px; /*espaçamento entre eles*/
+  width: 280px; /* tamanho de toda caixa info de cada elemento  */
+
+
+}
+#info li{
+  display: flex; /*coloca flex em cada item do info*/
+  align-items: center; /*alinha no centro*/
+  gap: 8px; /*espaçamento entre o icone e a escrita*/
+}
