@@ -1,0 +1,11 @@
+main{ /*classe das imagens*/
+  display: flex;  /*colocando uma imagem do lado da outra*/
+  flex-wrap: wrap; /*coloca conforme o tamanho da tela, ocupando todo espaço*/
+  gap: 24px; /*espaço entre as imagens*/
+  padding-block: 24px ; /*padding da imagens*/
+}
+main img{
+  width: 286px; /*largura da imagem*/
+  height: 286px; /*altura da imagem*/
+  object-fit: cover; /*se n tiver em um quadrado perfeito, ela cobre esse espaço*/
+}
