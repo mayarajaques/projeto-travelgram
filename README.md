@@ -1,4 +1,4 @@
-<h1 align="center"> Local Turistico </h1>
+<h1 align="center"> Travelgram </h1>
 
 <p align="center">
   Projeto desenvolvido com o curso da Rocketseat. Neste projeto o objetivo principal e trabalhar os conceitos de Flexbox no CSS.
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esta página traz informações de uma viagem para Busan na Coreia do Sul.
+Esta página traz um perfil de uma viajante Isabela Torres, onde compartilha fotos de suas últimas viagens pelo mundo.🌍
 
 ## 🔖 Layout
 
