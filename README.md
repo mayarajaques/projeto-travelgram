@@ -14,8 +14,8 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/readme.png" width="100%">
-  <img alt="projeto DevLinks" src=".github/readme2.png" width="100%">
+  <img alt="projeto Travelgram" src=".github/readme.png" width="100%">
+  <img alt="projeto Travelgram" src=".github/readme2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
