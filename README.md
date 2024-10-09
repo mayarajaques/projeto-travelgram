@@ -1,7 +1,8 @@
 <h1 align="center"> Travelgram </h1>
 
 <p align="center">
-  Projeto desenvolvido com o curso da Rocketseat. Neste projeto o objetivo principal e trabalhar os conceitos de Flexbox no CSS.
+  Projeto desenvolvido com o curso da Rocketseat. <br>
+  <strong>Neste projeto o objetivo principal e trabalhar os conceitos de Flexbox no CSS.</strong>
 </p>
 
 <p align="center">
