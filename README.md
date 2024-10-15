@@ -30,10 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esta página traz um perfil de uma viajante Isabela Torres, onde compartilha fotos de suas últimas viagens pelo mundo.🌍
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/cUS053ZLUSi9jcfzVg94su/Perfil-de-viagens-(Community)?node-id=3-376&node-type=canvas&t=NOJM94MGc2OJl5Ts-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 
 ---
 
